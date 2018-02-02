@@ -6,6 +6,6 @@ HJC allows the F2P player to participate without having to spend fiat currency i
 
 All transactions on the network will incur a modest 1% HJC transaction fee.
 
-<h2>Ouroboros Edition<h2>
+<h2>Ouroboros Edition</h2>
 
 The HeroesJourney Ouroboros edition is designed for non-profits that would like to raise funds through the game.   This edition will enable the player to designate a charity to receive half of all transaction fees.   There are over 1 million eligible charities in the US that can benefit from the revenue stream of in game HJC tokens.
