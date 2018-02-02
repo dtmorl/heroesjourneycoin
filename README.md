@@ -1,2 +1,0 @@
-# heroesjourneycoin
-HJC Token
